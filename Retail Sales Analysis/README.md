@@ -16,7 +16,8 @@
 
 **Database**:
         `retail_sales_db`
-## Table Structure: `retail_sales`
+**Table Structure: 
+        `retail_sales`
 
 | Column Name       | Description                  |
 |------------------|-----------------------------|
