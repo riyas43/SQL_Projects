@@ -18,7 +18,7 @@
         `retail_sales_db`
 **Table**:
         `retail_sale`
-``Column Name	   Description
+```Column Name	   Description
 transactions_id	   Unique transaction ID
 sale_date	       Date of sale
 sale_time	       Time of sale
@@ -30,7 +30,7 @@ quantity	       Quantity sold
 price_per_unit	   Price per unit
 cogs	           Cost of goods sold
 total_sale     	   Total sales value
-profit	           Calculated profit``
+profit	           Calculated profit```
 
 ## Key Analysis Performed
 
